@@ -1,0 +1,18 @@
+#n1 {
+    background-color: orange;
+}
+#n2 {
+    background-color: fuchsia;
+}
+#n3 {
+    background-color: royalblue;
+}
+
+.bg-purple{
+    background-color:purple;
+}
+
+.active_tag {
+    background-color:rgb(146, 16, 172);
+    color: white;
+}

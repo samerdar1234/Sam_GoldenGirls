@@ -1,0 +1,35 @@
+nav {
+    background-color: rgb(82, 86, 116);
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+nav a:hover{
+    background-color: rgb(117, 120, 146);
+}
+
+body {
+    background-color: #5fb683;
+    color: rgb(9, 82, 15);
+}
+
+.tablerow{
+    background-color: black;
+    color: white;
+}
+
+.steve{
+    background-color: white;
+    color: pink;
+    padding: 20px;
+    margin: 30px;
+}
+
+#blanche {
+    
+}
